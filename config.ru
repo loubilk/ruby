@@ -194,7 +194,7 @@ p + h2 {
   margin-top: 2em;
 }
 html {
-  background: #f5f5f5;
+  background: #ffffff;
   height: 100%;
 }
 code {
